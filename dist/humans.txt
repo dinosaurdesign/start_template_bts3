@@ -1,0 +1,22 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* TEAM */
+    Front-end: Alexander Kulnyow
+    e-mail: alexanderkulnyow@yahoo.com
+    From: Vitebsk, Belarus.
+    https://dds.by/
+
+    Web designer: Alexandra Betsnia
+    e-mail: albetenya@gmail.com
+    From: Vitebsk, Belarus.
+
+# THANKS
+
+/* SITE */
+	Last update:2018/05/15
+	Language: Russian
+	Standards: CSS3, HTML5
+	Components: Apache Server Configs, jQuery, Modernizr, Normalize.css
+	Doctype: HTML5
+	Software: Phpstorm, Adobe XD, Photoshop
